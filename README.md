@@ -1,4 +1,4 @@
-# ResNet50_Model
+# ResNet_Models
 
 - ResNet50
   - Validation Accuracy = 14
