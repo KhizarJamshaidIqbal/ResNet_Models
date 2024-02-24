@@ -1,8 +1,8 @@
 # ResNet_Models
-
-- ResNet50
-  - Validation Accuracy = 14
-- ResNet50V2
-  - Validation Accuracy = 77
-- ResNet101
-  - Validation Accuracy = 27
+-Achieve Validation accuracy for these Models(That Represent that is the Higest Accuracy on these Models)
+  - ResNet50
+    - Validation Accuracy = 14
+  - ResNet50V2
+    - Validation Accuracy = 77
+  - ResNet101
+    - Validation Accuracy = 27
