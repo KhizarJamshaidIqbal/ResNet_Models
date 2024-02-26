@@ -1,6 +1,6 @@
 # ResNet_Models
 
-- Achieve Validation accuracy for these Models (That Represent that is the Highest Accuracy on these Models)
+- Achieve Validation accuracy for these Models (Represent that the Highest Accuracy on these Models and you easily use these models on your custom dataset and still need to change the dataset path only)
   - ResNet50
     - Validation Accuracy = 14
   - ResNet50V2
